@@ -11,5 +11,8 @@
   "devDependencies": {
     "sass": "^1.65.1",
     "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "lottie-web": "^5.12.2"
   }
 }
