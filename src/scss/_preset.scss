@@ -53,3 +53,8 @@ html {
     transition: all 50ms ease;
     box-sizing: border-box;
 }
+
+::selection{
+    background-color: $third;
+    color: $second;
+}
