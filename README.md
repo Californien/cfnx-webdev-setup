@@ -10,17 +10,17 @@
 
 ## Commands
 
-**Start the dev-server**\n
-`npm run dev`\n
+**Start the dev-server**
+`npm run dev`
 
-**Build application**\n
+**Build application**
 `npm run build` **-->** *In a* `dist` *folder should appear files, which you can instantly deploy*
 
 ## Deploying
 
 **Netlify**
 
-*With Netlify you can host your website for free, but the domain will look like this:*\n
+*With Netlify you can host your website for free, but the domain will look like this:*
 `https://domain-name.netlify.app`
 
 **Hostinger**
