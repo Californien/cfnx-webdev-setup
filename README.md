@@ -1,15 +1,17 @@
-**Config**
+# Config
 
-*Install node_modules*
-# Run following command in a terminal to install all necessary modules: npm i
+**Install node_modules**
 
-*vite.config.js*
-# Open this file and specify the `defineConfig` like you want to.
+*Run following command in a terminal to install all necessary modules: `npm i`*
 
-**Commands**
+**`vite.config.js`**
 
-*Start the dev-server*
-# npm run dev
+*Open this file and specify the `defineConfig` function as you want to*
 
-*Build application*
-# npm run build
+# Commands
+
+**Start the dev-server**
+`npm run dev`
+
+**Build application**
+`npm run build`
