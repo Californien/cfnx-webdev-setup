@@ -6,11 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-infoForMe.txt
 
 node_modules
 dist
-!src/js/dist
 dist-ssr
 *.local
 
