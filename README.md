@@ -4,7 +4,7 @@
 
 *Run following command in a terminal to install all necessary modules: `npm i`*
 
-**`vite.config.js`**
+**vite.config.js**
 
 *Open this file and specify the `defineConfig` function as you want to*
 
