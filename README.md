@@ -1,3 +1,7 @@
+## Main Information
+
+**This is a repository for simple web-development without SSR or anything else with servers. Just write your Code in the HTML, SCSS and JS files and compile them with the commands at the bottom.**
+
 ## Config
 
 **Customize `package.json`**
