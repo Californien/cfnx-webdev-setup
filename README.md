@@ -10,7 +10,7 @@
 
 **Install `node_modules`**
 
-*Run following command in a terminal to install all necessary modules and apply the changes you made in the* `package.json`*-file:* `npm i`
+*Run following command in a terminal to install all necessary modules and apply the changes you made in the* `package.json`*-file:* `npm i
 
 **Customize `vite.config.js`**
 
