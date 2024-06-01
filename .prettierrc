@@ -13,5 +13,13 @@
 	"useTabs": true,
 	"singleQuote": true,
 	"vueIndentScriptAndStyle": true,
-	"requirePragma": false
+	"requirePragma": false,
+	"overrides": [
+		{
+			"files": "*.md",
+			"options": {
+				"proseWrap": "always"
+			}
+		}
+	]
 }
