@@ -7,26 +7,26 @@ $uiMagenta: #ff00aa !default;
 $uiRed: #ff0051 !default;
 $uiGreen: #46fcb4 !default;
 
-::selection{
-    background-color: $third;
-    color: $second;
+::selection {
+	background-color: $third;
+	color: $second;
 }
 
 body,
 html {
-    background-color: $second;
-    color: $third;
-    &::-webkit-scrollbar {
-        width: 7px;
-        &-track {
-            background: $second;
-        }
-        &-thumb {
-            background: rgba($third, 0.3);
-            border-radius: 10px;
-            &:hover {
-                background: rgba($third, 0.5);
-            }
-        }
-    }
+	background-color: $second;
+	color: $third;
+	&::-webkit-scrollbar {
+		width: 7px;
+		&-track {
+			background: $second;
+		}
+		&-thumb {
+			background: rgba($third, 0.3);
+			border-radius: 10px;
+			&:hover {
+				background: rgba($third, 0.5);
+			}
+		}
+	}
 }
