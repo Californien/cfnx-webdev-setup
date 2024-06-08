@@ -27,3 +27,4 @@ dist-ssr
 coverage/
 src/coverage
 .vercel
+*.xcf
