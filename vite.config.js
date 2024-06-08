@@ -1,13 +1,12 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from 'vitest/config';
 import path from 'path';
 import autoprefixer from 'autoprefixer';
 
 export default defineConfig({
 	test: {
-		include: ['**/js/*.test.js', '**/ts/*.test.ts'],
+		include: ['**/js/*.test.js', '**/ts/*.test.ts', '**/test/*.{js,ts}'],
 		globals: true,
-		reporters: 'verbose',
-		environment: 'jsdom'
+		reporters: 'verbose'
 	},
 	resolve: {
 		alias: {
