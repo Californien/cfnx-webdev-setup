@@ -1,4 +1,4 @@
-<img align="center" style="width:90%;aspect-ratio:1/1;" src="./.github/content/title.png">
+<img src="./.github/content/title.png">
 
 ## Main Information
 
