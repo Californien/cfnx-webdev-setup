@@ -1,5 +1,7 @@
 <img src="./.github/content/title.png">
 
+<h1 align="center">CFNX Webdev Setup</h1>
+
 ## Main Information
 
 **This is a repository for simple web-development without SSR or anything else with servers. Just write your Code in the HTML, (S)CSS, SASS, JavaScript and TypeScript files and compile them with the commands at the bottom. It's an extremely simple coding environment, for very small projects, which doesn't need servers, backends, and so on. _Not recommended for enterprise applications!_**
