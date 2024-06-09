@@ -1,7 +1,7 @@
 <img src="./.github/content/title.png">
 
-<h3 align="center" style="font-size:40px;font-weight:800;">CFNX Webdev Setup</h3>
-<h4 align="center" style="font-size:27px;font-weight:600;">Free and Simple Webdevelopment Template using Vite</h4>
+<h1 align="center">CFNX Webdev Setup</h1>
+<h3 align="center">Free and Simple Webdevelopment Template using Vite</h3>
 <br>
 
 ## Main Information
