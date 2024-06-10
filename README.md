@@ -119,3 +119,20 @@ npm run lint
 ```bash
 npm run format
 ```
+
+## (Un)Supported Features ==> Template Comparison
+
+|                                | **Basic**                              | **Pro** | **Enterprise** | **Ultra** |
+| ------------------------------ | -------------------------------------- | ------- | -------------- | --------- |
+| CLI Commands                   | <img src="./.github/content/tick.png"> |         |                |           |
+| SASS / SCSS Support            |                                        |         |                |           |
+| Code Formatting                |                                        |         |                |           |
+| Linting                        |                                        |         |                |           |
+| Testing                        |                                        |         |                |           |
+| CI/CD Integr. (GitHub Actions) |                                        |         |                |           |
+| ENV-Variables Support          |                                        |         |                |           |
+| Routing                        |                                        |         |                |           |
+| Middleware Functionality       |                                        |         |                |           |
+| SSR                            |                                        |         |                |           |
+| Database Support               |                                        |         |                |           |
+| Multi-Platform                 |                                        |         |                |           |
