@@ -124,7 +124,7 @@ npm run format
 
 |                                | **Basic**                                                         | **Pro** | **Enterprise** | **Ultra** |
 | ------------------------------ | ----------------------------------------------------------------- | ------- | -------------- | --------- |
-| CLI Commands                   | <img src="./.github/content/tick.png" width="50px" height="50px"> |         |                |           |
+| CLI Commands                   | <img src="./.github/content/tick.png" width="20px" height="20px"> |         |                |           |
 | SASS / SCSS Support            |                                                                   |         |                |           |
 | Code Formatting                |                                                                   |         |                |           |
 | Linting                        |                                                                   |         |                |           |
