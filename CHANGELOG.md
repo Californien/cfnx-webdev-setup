@@ -5,11 +5,20 @@
 All notable changes to the 'cfnx-webdev-setup' repository will be documented in
 this file. You don't really understand 'Added Feature' on the newest version? Check the README.md file.
 
+## [v2.1.1]
+
+### Updates
+
+-   Replaced font files by one variable font ==> more data-efficient!
+
 ## [v2.1.0]
 
 ### Updates
 
 -   `vite` updated: --> v5.2.13
+
+### Bug Fixes
+
 -   Fixed ESLint command (`npm run lint`): dependency version downgrade: v9.4.0 => v8.57.0
 
 ### Added Features
