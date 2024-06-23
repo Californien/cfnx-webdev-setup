@@ -16,7 +16,7 @@ export default defineConfig({
 	},
 	root: 'src',
 	assetsInclude: ['./assets/**/*.*'],
-	base: '',
+	base: './',
 	build: {
 		emptyOutDir: true,
 		outDir: '../dist'
