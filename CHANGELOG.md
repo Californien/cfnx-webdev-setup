@@ -5,6 +5,20 @@
 All notable changes to the 'cfnx-webdev-setup' repository will be documented in
 this file. You don't really understand 'Added Feature' on the newest version? Check the README.md file.
 
+## [v2.1.2]
+
+### Updates
+
+-   `@eslint/js` updated: --> v9.10.0
+-   `autoprefixer` updated: --> v10.4.20
+-   `c8` updated: --> v10.1.2
+-   `eslint` updated: --> v9.10.0
+-   `globals` updated: --> v15.9.0
+-   `prettier` updated: --> v3.3.3
+-   `typescript-eslint` updated: --> v8.6.0
+-   `vite` updated: --> v5.4.6
+-   `vitest` updated: --> v2.1.1
+
 ## [v2.1.1]
 
 ### Updates
