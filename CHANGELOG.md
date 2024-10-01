@@ -5,6 +5,14 @@
 All notable changes to the 'cfnx-webdev-setup' repository will be documented in
 this file. You don't really understand 'Added Feature' on the newest version? Check the README.md file.
 
+## [v2.1.3]
+
+### Updates
+
+-   `globals` updated: --> v15.10.0
+-   `typescript-eslint` updated: --> v8.8.0
+-   `vite` updated: --> v5.4.8
+
 ## [v2.1.2]
 
 ### Updates
