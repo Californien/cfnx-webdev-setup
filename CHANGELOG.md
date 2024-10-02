@@ -5,6 +5,15 @@
 All notable changes to the 'cfnx-webdev-setup' repository will be documented in
 this file. You don't really understand 'Added Feature' on the newest version? Check the README.md file.
 
+## [v2.1.4]
+
+### Updates
+
+-   `@eslint/js` updated: --> v9.11.1
+-   `eslint` updated: --> v9.11.1
+-   `vitest` updated: --> v2.1.2
+-   enabled `private` in `package.json`
+
 ## [v2.1.3]
 
 ### Updates
