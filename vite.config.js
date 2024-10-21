@@ -1,10 +1,14 @@
 import { defineConfig } from 'vitest/config';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import autoprefixer from 'autoprefixer';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 export default defineConfig({
 	test: {
-		include: ['**/js/*.test.js', '**/ts/*.test.ts', '**/test/*.{js,ts}'],
+		include: ['./test/**/*.test.{js,ts}'],
 		globals: true,
 		reporters: 'verbose'
 	},
