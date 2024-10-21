@@ -5,6 +5,28 @@
 All notable changes to the 'cfnx-webdev-setup' repository will be documented in
 this file. You don't really understand 'Added Feature' on the newest version? Check the README.md file.
 
+## [v2.1.5]
+
+### Updates
+
+-   `@eslint/js` updated: --> v9.13.0
+-   `eslint` updated: --> v9.13.0
+-   `globals` updated: --> v15.11.0
+-   `jsdom` updated (set fix-version): --> v25.0.1
+-   `postcss` added (v8.4.47)
+-   `typescript` updated (set fix-version): --> v5.6.3
+-   `typescript-eslint` updated: --> v8.10.0
+-   `vite` updated: --> v5.4.9
+-   `vitest` updated: --> v2.1.3
+
+-   Changed test-files location
+-   Small eslint-config rework
+-   Better typescript-support
+
+### Fixes
+
+-   (Hopefully) fixed `autoprefixer` not working because of non-existence `postcss` dependency.
+
 ## [v2.1.4]
 
 ### Updates
